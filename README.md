@@ -1,30 +1,43 @@
-## Hello, I'm swapnil-0924 👋
+Here's an updated and more polished version of your GitHub profile README:  
 
-I'm a passionate coder and software developer with a keen interest in [ web development & mobile app development, etc.]. I'm always exploring new technologies and seeking innovative solutions to complex problems.
+---
 
-### 🚀 My Tech Stack
+## 👋 Hello, I'm Swapnil Ajmera!  
 
-- **Languages**: [JavaScript, Python, Java]
-- **Front-end**: [ HTML, CSS, React]
-- **Back-end**: [Node.js, Django, Ruby on Rails]
-- **Databases**: [MySQL, MongoDB]
-- **Tools**: [Git, VS Code, Sublime Text]
+I'm a passionate **Software Developer** with expertise in **Web Development & Mobile App Development**. I love exploring new technologies, solving complex problems, and building innovative solutions.  
 
-### 💼 My Work
+### 🚀 Tech Stack  
 
-- Currentley working on project for Multi social_media connetor...
+- **Languages**: C++, Dart, JavaScript, Python  
+- **Front-end**: HTML, CSS, ReactJS, Flutter  
+- **Back-end**: Node.js, Django, Firebase  
+- **Databases**: MySQL, MongoDB  
+- **Tools & Platforms**: Git, VS Code, Figma, Postman  
 
-### 🌱 Currently Learning
+### 💼 Current Projects  
 
-I believe in continuous learning and staying up-to-date with the latest trends in the tech industry. Currently, I'm focused on mastering [machine learning algorithms, AWS services].
+🔹 **Movie Ticket Booking System** – Secure payments, multiple payment options, and user notifications.  
+🔹 **Stock Market Prediction App** – Built with Streamlit, pandas, and machine learning models.  
+🔹 **Tour & Travel Website** – Interactive UI with 3D effects and immersive destination pages.  
+🔹 **Online Chair Store** – E-commerce platform for stylish and ergonomic chairs.  
 
-### 📫 Get in Touch
+### 🌱 Currently Learning  
 
-Feel free to reach out to me on [Twitter](https://twitter.com/your_username),[instagram](https://instagram.com/swapnil_ajmer?igshid=MzNlNGNkZWQ4Mg==)if you have any questions or just want to connect. I'm always open to collaboration and interesting discussions.
-This my profile link where you can easily know me [Profile](http://192.168.29.203:5500/My_Profile.html)
-Thanks for visiting my GitHub profile! Happy coding! 👨‍💻
+I'm always expanding my skills and keeping up with the latest tech trends. Currently, I'm focusing on:  
+✅ UI/UX Design & Prototyping  
+✅ Machine Learning & AI  
+✅ Cloud Computing (AWS, Firebase)  
 
-<!---
-swapnil-0924/swapnil-0924 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📫 Connect with Me  
+
+Let's connect and collaborate! Reach out to me on:  
+- [Instagram](https://instagram.com/swapnil_ajmer?igshid=MzNlNGNkZWQ4Mg==)  
+- [GitHub](https://github.com/swapnil-0924)  
+
+🔗 **[My Portfolio](http://192.168.29.203:5500/My_Profile.html)** – Learn more about me and my work!  
+
+Thanks for stopping by! **Happy coding!** 🚀👨‍💻  
+
+---
+
+This version is cleaner, more engaging, and highlights your projects more effectively. Let me know if you want any changes! 😊
