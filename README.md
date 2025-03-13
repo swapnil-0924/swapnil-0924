@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://via.placeholder.com/1200x300.png?text=Swapnil+Ajmera+-+Software+Developer" alt="Banner" width="100%">
-</div>
+![Swapnil Ajmera - Software Developer](https://via.placeholder.com/1200x300.png?text=Swapnil+Ajmera+-+Software+Developer)
 
 ## 👋 Hey There, I'm Swapnil Ajmera!  
 
