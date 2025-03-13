@@ -21,21 +21,21 @@ I'm a **Software Developer** passionate about crafting innovative solutions in *
 
 ### 💻 Featured Projects  
 
-- **🎬 Movie Ticket Booking System**  
-  A robust platform with secure payments, multiple payment gateways, and user notifications.  
-  *[Repository](https://github.com/swapnil-0924/movie-ticket-system)*
-
-- **📈 Stock Market Prediction App**  
+- **📈 Crypto coins price Prediction Website**  
   Built with Streamlit, pandas, and ML models to predict stock trends.  
-  *[Live Demo](https://example.com/stock-app) | [Repository](https://github.com/swapnil-0924/stock-prediction)*
+  *[Live Demo](https://example.com/stock-app) | [Repository](https://github.com/swapnil-0924/ML-Crypto_Price_Prediction-)*
 
-- **🌍 Tour & Travel Website**  
+- **🌍 Weather ap**  
   An interactive UI with 3D effects and immersive destination pages.  
-  *[Repository](https://github.com/swapnil-0924/tour-travel)*
+  *[Repository](https://github.com/swapnil-0924/weather-app)*
 
 - **🪑 Online Chair Store**  
   E-commerce platform for stylish, ergonomic chairs with a seamless shopping experience.  
   *[Repository](https://github.com/swapnil-0924/chair-store)*
+
+- **🔒 Password Generator Website**  
+  A simple, secure tool to generate strong, random passwords with customizable options.  
+  *[Repository](https://github.com/swapnil-0924/Passwords-Generator)*
 
 ---
 
