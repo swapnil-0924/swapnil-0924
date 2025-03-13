@@ -22,7 +22,7 @@ I'm a **Software Developer** passionate about crafting innovative solutions in *
 ### 💻 Featured Projects  
 
 - **📈 Crypto coins price Prediction Website**  
-  Built with Streamlit, pandas, and ML models to predict stock trends.  
+  Built with Flask, pandas, and ML models to predict stock trends.  
   *[Live Demo](https://example.com/stock-app) | [Repository](https://github.com/swapnil-0924/ML-Crypto_Price_Prediction-)*
 
 - **🌍 Weather ap**  
