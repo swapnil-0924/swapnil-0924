@@ -31,7 +31,7 @@ I'm a **Software Developer** passionate about crafting innovative solutions in *
 
 - **🪑 Online Chair Store**  
   E-commerce platform for stylish, ergonomic chairs with a seamless shopping experience.  
-  *[Repository](https://github.com/swapnil-0924/chair-store)*
+  *[Repository](https://github.com/swapnil-0924/Online-Chair-Store)*
 
 - **🔒 Password Generator Website**  
   A simple, secure tool to generate strong, random passwords with customizable options.  
