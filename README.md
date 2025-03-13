@@ -1,4 +1,5 @@
-![Swapnil Ajmera - Software Developer](https://raw.githubusercontent.com/swapnil-0924/swapnil-0924/main/images/banner.png)
+![Swapnil Ajmera - Software Developer](https://github.githubassets.com/images/modules/site/social-cards/github-social.png)
+
 
 ## 👋 Hey There, I'm Swapnil Ajmera!  
 
